@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+  }
+  
+  h1 {
+    border: solid 5px black;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  .primero {
+    border-left: double 20px red;
+    border-top: double 20px red;
+  }
+  
+  .segundo{
+    border-color: blue green;
+    border-width: 5px 10px 20px 40px;
+    border-style: dashed;
+  }
+  
+  .tercero {
+    border-color: yellow;
+    border-width: 40px 10px;
+    border-style: double;
+  }
+  
+  .cuarto {
+    border-color: green black blue;
+    border-width: 20px;
+    border-style: solid none;
+  }
+  
+  .quinto {
+    border-color: red black black;
+    border-width: 40px;
+    border-style: dashed solid dotted;
+  }
+  
+  .sexto {
+    border-color: black black black red;
+    border-width: 10px 40px 20px;
+    border-style: dotted solid dashed double;
+  }
+  
